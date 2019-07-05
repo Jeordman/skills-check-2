@@ -1,0 +1,8 @@
+.dash-holder{
+    float: left;
+    width:35vw;
+    height: 80vh;
+    margin-top: 4%;
+    margin-left: 15%;
+    overflow-y: scroll;
+}

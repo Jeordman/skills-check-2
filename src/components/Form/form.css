@@ -1,0 +1,58 @@
+.form-border{
+    display: flex;
+    position: relative;
+    width: 30vw;
+    height: 70vh;
+    float: right;
+    
+    margin-right: 10vw;
+    margin-top: 4%;
+    background-color: rgb(115, 190, 115);
+    border-style: solid;
+}
+
+.row{
+    flex-direction: column;
+}
+
+.add-pic{
+    margin-top: 2vh;
+    margin-left: 5vw;
+    width: 20vw;
+    height: 30vh;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+
+input{
+    margin-left: 1.35vw;
+    width: 107%;
+    height: 2vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+article{
+    margin-top: 1vh;
+    margin-left: 1.35vw;
+    font-weight: 500;
+}
+
+.cancel-button{
+   margin-top: 60vh;
+    width: 6vw;
+    position: absolute;
+    margin-left: 2.7vw;
+    font-size: 20px;
+    background-color: rgb(223, 84, 84);
+}
+
+.add-button{
+    margin-top: 60vh;
+    margin-left: 13vw;
+    width: 15vw;
+    position: absolute;
+    font-size: 20px;
+    background-color: rgb(223, 84, 84);
+}

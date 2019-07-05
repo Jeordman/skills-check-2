@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  background-color: #e0dfdd;
+  position: absolute;
+}
+
+button{
+  outline: none;
+}
+
+input{
+  outline: none;
+}
+

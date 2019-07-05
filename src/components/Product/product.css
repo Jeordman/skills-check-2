@@ -1,0 +1,39 @@
+.repeat-holder {
+  margin-bottom: 3vh;
+  width: 90%;
+  height: 40vh;
+  background-color: rgb(223, 84, 84);
+  border-radius: 25px;
+}
+
+.img-repeat {
+  width: 70%;
+  border-radius: 25px;
+  margin-left: 5vw;
+}
+
+.repeat-text {
+  margin-left: 8vw;
+}
+
+.delete {
+  float: left;
+  margin-left: 9vw;
+  width: 6vw;
+  background-color: rgb(115, 190, 115);
+}
+
+.edit {
+  float: right;
+  margin-right: 9vw;
+  width: 6vw;
+  background-color: rgb(115, 190, 115);
+}
+
+.delete:hover {
+  cursor: pointer;
+}
+
+.edit:hover {
+  cursor: pointer;
+}

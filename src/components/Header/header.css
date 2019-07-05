@@ -1,0 +1,14 @@
+.navbar-holder{
+    width: 100vw;
+    height: 8vh;
+    background-color: rgb(155, 3, 3);
+    display: flex;
+}
+
+.navbar-text{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: white;
+}
